@@ -1,0 +1,1 @@
+@gcc ./src/*.c -I ./include/ -L ./lib/ -lSDL2main -lSDL2 -o main.exe && main
